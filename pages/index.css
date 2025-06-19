@@ -88,7 +88,7 @@
   margin: 0;
 }
 
-.nav__link a {
+.nav__link {
   text-decoration: none;
   color: #000;
   font-family: "Inter";
