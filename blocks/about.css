@@ -1,9 +1,10 @@
 .about {
   background-color: #0a2850;
   color: #fff;
-  padding: 100px 80px 173px;
+  padding: 100px 80px 17px;
   display: flex;
-  justify-content: space-between;
+  flex-direction: column;
+
   font-family: "Inter" Arial, sans-serif;
 }
 
