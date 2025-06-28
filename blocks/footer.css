@@ -22,7 +22,7 @@
 .footer__list {
   margin: 0;
   padding: 0;
-  list-style-type: 0;
+  list-style-type: none;
   display: felx;
   flex-direction: column;
   gap: 16px;
