@@ -1,4 +1,5 @@
-@import url(../vendor/normalize.css/);
+@import url(../normalize.css);
+@import url(../vendor);
 @import url(../blocks/page.css);
 @import url(../blocks/header.css);
 @import url(../blocks/nav.css);
@@ -9,5 +10,3 @@
 @import url(../blocks/about.css);
 @import url(../blocks/footer.css);
 @import url(../blocks/form.css);
-@import url(../vendor);
-@import url(../normalize.css);
