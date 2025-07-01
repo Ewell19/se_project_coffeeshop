@@ -10,15 +10,18 @@
 .header__title {
   margin: 183px 0 0;
   max-width: 729px;
+  font-family: "Noto Serif", serif;
   font-weight: 500;
   font-size: 60px;
   line-height: 72px;
   letter-spacing: -0.6px;
+  font-family: "";
 }
 
 .header__span-accent {
   display: block;
-  font-family: "Noto Sans";
+  font-family: "Noto Serif";
+  font-weight: 500px;
   font-style: italic;
   line-height: 72px;
   color: #3f96f3;
@@ -40,6 +43,7 @@
   right: 5px;
   width: 646px;
   height: 568px;
+  z-index: -1;
 }
 
 .header__footer {
@@ -56,5 +60,5 @@
   font-weight: 400;
   font-size: 16px;
   line-height: 20px;
-  color: #000;
+  color: #3f96f3;
 }
