@@ -16,6 +16,7 @@
 }
 
 .reservation__form {
+  margin: 0 auto;
   font-family: "Inter";
   font-style: normal;
   font-weight: 500;

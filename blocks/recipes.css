@@ -32,7 +32,6 @@
 .recipes__videos-caption {
   display: flex;
   justify-content: space-between;
-  height: 42px;
   font-family: "Inter";
   font-style: normal;
   font-weight: 500px;
@@ -42,6 +41,8 @@
 }
 
 .recipes__videos {
+  margin: 0;
+  padding: 0 auto;
   display: flex;
   justify-content: center;
   gap: 40px;
