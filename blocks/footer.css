@@ -33,10 +33,11 @@
 .footer__social-link {
   color: #fff;
   text-decoration: none;
-  align-items: center;
+  display: flex;
 }
 
-.foooter__social-link:hover {
+.footer__social-link:hover {
+  transition: all 3s ease-in-out;
   color: #c1c1c1;
 }
 

@@ -6,7 +6,7 @@
   margin: 0;
   padding: 0;
   border: none;
-  font-family: "Inter";
+  font-family: "Inter", Arial, sans-serif;
   font-style: normal;
   font-weight: normal;
   font-size: 20px;
@@ -16,13 +16,14 @@
 .form__input {
   display: block;
   width: 100%;
-  font-size: 16px;
-  line-height: 20px;
+  font-size: inherit;
+  line-height: inherit;
   box-sizing: border-box;
   padding: 15px 20px;
   margin: 8px 0 32px;
   border: 1px solid #838383;
   color: #000;
+  border-radius: none;
 }
 
 .form__button {
@@ -50,7 +51,7 @@
 }
 
 .form__label {
-  font-family: "Inter";
+  font-family: "Inter", Arial, sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 16px;
