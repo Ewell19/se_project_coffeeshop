@@ -16,7 +16,7 @@
 }
 
 .card__title {
-  font-family: "noto serif";
+  font-family: "Noto Serif", "Times New Roman", Times, serif;
   margin: 0 0 32px;
   font-size: 16px;
   line-height: 20px;
