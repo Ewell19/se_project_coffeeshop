@@ -20,8 +20,8 @@
 
 .header__span-accent {
   display: block;
-  font-family: "Noto Serif" "Times New Roman", Times, serif;
-  font-weight: 400px;
+  font-family: "Noto Serif", "Times New Roman", Times, serif;
+  font-weight: 400;
   font-style: italic;
   line-height: 72px;
   color: #3f96f3;
@@ -30,7 +30,7 @@
 .header__description {
   margin: 28px 0 0;
   max-width: 683px;
-  font-family: "Noto Serif" "Times New Roman", Times, serif;
+  font-family: "Noto Serif", "Times New Roman", Times, serif;
   font-style: normal;
   font-weight: normal;
   font-size: 20px;

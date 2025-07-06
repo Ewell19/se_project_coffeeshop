@@ -37,7 +37,7 @@
 }
 
 .footer__social-link:hover {
-  transition: all 3s ease-in-out;
+  transition: all 1s ease-in-out;
   color: #c1c1c1;
 }
 
