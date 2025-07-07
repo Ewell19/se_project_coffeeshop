@@ -4,6 +4,11 @@
   background-image: url(../images/background_reservation.svg);
   background-size: cover;
   background-position: center;
+  font-family: "Inter", Arial, sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 20px;
 }
 
 .reservation__title {
@@ -14,4 +19,8 @@
   font-weight: 500;
   font-size: 44px;
   line-height: 52px;
+}
+
+.reservation__form {
+  margin: 0 auto;
 }
